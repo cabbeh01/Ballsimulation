@@ -1,4 +1,4 @@
-# Ballsimulation
+# Bouncing Balls
 The end-assignment in the first Java Programming course was to develop a bouncing ball in a simulated environment.  
 The program is divided into four different panels where the user will interact with the
 software in specific way.
